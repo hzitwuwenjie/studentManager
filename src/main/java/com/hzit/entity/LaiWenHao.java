@@ -12,6 +12,6 @@ public class LaiWenHao {
     }
 
     public void getName(){
-        System.out.println("这是我的第一个GIT。");
+        System.out.println("这是我的第一个GIT。呜呜呜呜无无无无");
     }
 }

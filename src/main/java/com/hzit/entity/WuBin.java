@@ -6,6 +6,9 @@ package com.hzit.entity;
 public class WuBin {
 
     public void hello(){
+        /**
+         * 哈哈
+         */
         System.out.println("Git上传的项目！");
     }
 }
