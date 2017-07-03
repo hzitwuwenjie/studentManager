@@ -33,6 +33,6 @@ public class TonyMin {
         int b = 200;
         TonyMin t = new TonyMin();
         t.exchange2(a, b);
-
+        System.out.println("闵老师刚刚提交了代码。");
     }
 }
