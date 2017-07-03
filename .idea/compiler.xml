@@ -25,5 +25,8 @@
         <module name="studentManager" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="studentManager" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
