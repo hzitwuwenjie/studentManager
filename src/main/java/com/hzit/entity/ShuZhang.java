@@ -6,5 +6,6 @@ package com.hzit.entity;
 public class ShuZhang {
     public void name(){
         System.out.println("我的名字是无思");
+        System.out.println("这次我叫做无魂");
     }
 }
