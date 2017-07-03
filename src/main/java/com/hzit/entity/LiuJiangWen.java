@@ -7,5 +7,8 @@ public class LiuJiangWen {
     public static void main(String[] args) {
         System.out.println("Hello Word!");
         System.out.println("My name is 劉江文......");
+        /**
+         * 李佳薇
+         */
     }
 }
