@@ -15,5 +15,6 @@ public class WuWenJie {
 
     public void show(){
         System.out.println("Hello Word!");
+        System.out.println("Hello GIT");
     }
 }
