@@ -6,6 +6,6 @@ package com.hzit.entity;
 public class QinJinChuan {
     public void show(){
         System.out.println("walking in the rain");
-
+         //修改过后·······
     }
 }
