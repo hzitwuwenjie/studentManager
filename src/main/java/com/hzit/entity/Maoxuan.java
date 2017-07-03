@@ -6,5 +6,6 @@ package com.hzit.entity;
 public class Maoxuan {
     public void show(){
         System.out.println("henhao");
+        System.out.println("修改他人代码上传");
     }
 }
