@@ -6,5 +6,6 @@ package com.hzit.entity;
 public class Xukx {
     public  void show(){
         System.out.println("yyyyy");
+        System.out.println("my git is running ! ");
     }
 }
