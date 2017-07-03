@@ -17,7 +17,6 @@ public class WuWenJie {
         System.out.println("Hello Word!");
         System.out.println("Hello GIT，闽粤修改后的！");
     }
-
     public static void main(String[] args) {
         new WuWenJie().show();
     }
