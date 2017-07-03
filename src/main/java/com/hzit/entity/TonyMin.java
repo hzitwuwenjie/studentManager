@@ -49,5 +49,7 @@ public class TonyMin {
         System.out.println("舒张刚刚修改了代码");
         System.out.println("覃认追刚刚修改了代码");
         System.out.println("我再试一下");
+        System.out.println("ccc updated it just now .");
+        System.out.println("ccc updated it just now .");
     }
 }
