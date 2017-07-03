@@ -9,9 +9,27 @@ public class TonyMin {
         System.out.println(s);
     }
 
+    //a = 1; b = 2;
+    public  void exchange(int a, int b){
+        a = a + b;
+        b = a - b;
+        a = a - b;
+        System.out.println("交换后的a:"+a);
+        System.out.println("交换后的b:"+b);
+    }
+
+    public  void exchange2(int a, int b){
+        a = a ^ b;
+        b = a ^ b;
+        a = a ^ b;
+        System.out.println("交换后的a:"+a);
+        System.out.println("交换后的b:"+b);
+    }
+
     public static void main(String[] args) {
-        for (int i = 0; i < 100; i++) {
-            System.out.println("中文哟：" + i);
-        }
+        int a = 10;
+        int b = 200;
+        TonyMin t = new TonyMin();
+        t.exchange2(a,b);
     }
 }
