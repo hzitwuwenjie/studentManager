@@ -31,5 +31,6 @@ public class TonyMin {
         int b = 200;
         TonyMin t = new TonyMin();
         t.exchange2(a,b);
+        System.out.println("张武斌");
     }
 }
