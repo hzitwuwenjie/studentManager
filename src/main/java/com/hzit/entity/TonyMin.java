@@ -38,12 +38,13 @@ public class TonyMin {
         System.out.println("汤宇航刚刚修改代码！");
         System.out.println("梁梦楚修改了代码");
         System.out.println("毛璇提交了代码");
-        System.out.println("许克兴修改了代码");
+        System.out.println("许克兴修改了N代码");
         System.out.println("劉江文還是沒有修改代码！。。。。。。");
         System.out.println("应传富修改了代码");
         System.out.println("张武斌提交了N条代码！");
         System.out.println("曾祥炜提交了N条代码！");
         System.out.println("覃津传提交了N条代码！");
         System.out.println("应传富第二次修改代码");
+
     }
 }
