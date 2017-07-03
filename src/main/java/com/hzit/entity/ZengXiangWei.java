@@ -9,4 +9,8 @@ public class ZengXiangWei {
     public void getName(){
         System.out.println("这是我的第一个GIT");
     }
+
+    /*
+    * protected后可以上传吗？
+    * */
 }
