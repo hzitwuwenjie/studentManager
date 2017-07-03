@@ -28,6 +28,7 @@ public class TonyMin {
 
     public static void main(String[] args) {
         System.out.println("林兵刚刚修改了代码！");
+        System.out.println("劉江文沒有修改代码！");
         int a = 10;
         int b = 200;
         TonyMin t = new TonyMin();
