@@ -3,9 +3,9 @@ package com.hzit.entity;
 /**
  * Created by Administrator on 2017/7/3.
  */
-public class Liangmeng {
+public class Liangmengchu {
 
-    public Liangmeng(){
+    public Liangmengchu(){
         System.out.println("test");
     }
 }
