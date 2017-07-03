@@ -6,6 +6,8 @@ package com.hzit.entity;
 public class Linbing {
     public void add(){
         int a=1;
-        System.out.println(a);
+        int b=2;
+        int c=a+b;
+        System.out.println(c);
     }
 }
