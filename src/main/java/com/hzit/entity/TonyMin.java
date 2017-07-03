@@ -44,6 +44,6 @@ public class TonyMin {
         System.out.println("许克兴修改了代码");
         System.out.println("劉江文還是沒有修改代码！。。。。。。");
         System.out.println("应传富修改了代码");
-        System.out.println("曾祥炜修改了代码");
+        System.out.println("张武斌提交了N条代码！");
     }
 }
